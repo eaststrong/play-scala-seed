@@ -5,7 +5,7 @@ object playscalaseed extends PlayModule with SingleModule {
 
   def scalaVersion = "2.13.15"
   def playVersion = "3.0.5"
-  def twirlVersion = "2.0.1"
+  def twirlVersion = "2.0.7"
 
   object test extends PlayTests
 }
